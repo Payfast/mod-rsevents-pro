@@ -1,4 +1,4 @@
-PayFast PrestaShop Module v1.0.0 for RSEventsPro v1.* 
+PayFast RSEventsPro Plugin v1.0.0 for RSEventsPro v1.* 
 -------------------------------------------------------
 Copyright (c) 2013 PayFast (Pty) Ltd
 
