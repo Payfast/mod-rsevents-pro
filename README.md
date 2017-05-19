@@ -6,10 +6,10 @@ Except as expressly indicated in this licence, you may not use, copy, modify or 
 
 
 ******************************************************************************
-*                                                                            *
-*    Please see the URL below for all information concerning this module:    *
-*                                                                            *
-*              http://www.payfast.co.za/developers/rseventspro               *
-*                                                                            *
+
+    Please see the URL below for all information concerning this module:
+
+              http://www.payfast.co.za/developers/rseventspro
+
 ******************************************************************************
 
